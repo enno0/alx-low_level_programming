@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+chmod u+x *.c
+chmod u+x *.h
+git add .
+git commit -m c
+git push
